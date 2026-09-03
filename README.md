@@ -102,15 +102,7 @@ and maintainable web solutions.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" />
-
-<img src="./profile/top-langs.svg" width="48%" />
-
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -122,15 +114,7 @@ and maintainable web solutions.
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/savanzalavadiya07/savanzalavadiya07/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ## 📫 Contact Me
 
