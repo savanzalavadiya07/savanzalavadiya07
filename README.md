@@ -1,84 +1,156 @@
-<h1 align="center">
-  Hi <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/icons/wave.gif" width="30px" alt="wave" />, I'm Savan Zalavad
-</h1> 
-<h3 align="center">Student | Aspiring Software Developer</h3>
+# 👋 Hi, I'm Savan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savanzalavadiya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 💻 Full-Stack Developer | MERN | UI/UX Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=500&lines=Learning+Programming+%7C+Web+Development+%7C+Software+Projects" />
-</p>
-
+- 🔭 I'm currently working on: **Web Applications and Management Systems**
+- 🌱 I'm learning: **Advanced React, scalable architectures, and production best practices**
+- 💼 I work with: **React, Node.js, PHP, MongoDB, MySQL**
+- ❓ Ask me about: **React, JavaScript (ES6+), Node.js, PHP, MongoDB, MySQL, Tailwind CSS**
+- 📫 Reach me: **your.email@gmail.com**
+- ⚡ Fun fact: **I enjoy polishing UI details and fixing the bugs that hide in the margins!**
 
 ---
 
-🌱 Currently learning **programming & software development**  
+## 🧰 Tech Stack
 
+### Core
 
-💻 Interested in **Web Development** and real-world projects  
-🚀 Building projects to improve **problem-solving skills**
+- JavaScript (ES6+)
+- React
+- Node.js
+- Express.js
+- PHP
+- REST API
 
----
+### 🗄️ Databases
 
-### 🛠 Skills
-- **Languages:** C, C++  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git & GitHub  
-- **Database:** SQL  
+- MongoDB
+- MySQL
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=500&lines=C+%2B%2B+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL+%7C+Git+%7C+GitHub" />
-</p>
+### 🎨 Styling & Design
 
----
+- Tailwind CSS
+- Bootstrap
+- Figma
+- Canva
 
-### 🧰 Tools & Technologies
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+### 🛠️ Other Tools
 
----
-
-### 📌 Featured Projects
-- 🔹 Portfolio Website – HTML, CSS  
- - 🔹 Practice Programs in C / C++  
-- 🔹 More projects coming soon 🚀
-- <p align="center">
-    <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120" alt="Portfolio Animation" />
-  </p>
+- Git & GitHub
+- Docker
+- GitHub Actions
+- Vercel
+- Netlify
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savanzalavadiya&show_icons=true&theme=tokyonight" />
-</p>
+## 💼 Selected Projects
+
+### 🏨 Hotel Management System
+
+Full-stack hotel management application with:
+
+- Room booking system
+- Admin dashboard
+- Customer management
+- Invoicing
+- Authentication
+- REST APIs
+- MongoDB / MySQL
+
+**Tech:** React, Node.js, PHP, MongoDB, MySQL
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=savanzalavadiya&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🌐 Personal Portfolio
+
+Responsive personal portfolio website showcasing my:
+
+- Skills
+- Projects
+- Experience
+- Contact information
+
+**Tech:** React, Tailwind CSS
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=savanzalavadiya&theme=tokyonight&row=1&column=6" />
-</p>
+### 📱 Social Media UI
+
+Modern responsive social media interface with clean UI components.
+
+**Tech:** JavaScript, HTML, CSS
 
 ---
 
-### 📫 Connect with me
-- GitHub: [https://github.com/savanzalavadiya](https://github.com/savanzalavadiya)
+## 🚀 What I Do
+
+I help businesses and clients by delivering reliable, usable,
+and maintainable web solutions.
+
+- 💻 Build responsive and accessible UIs
+- ⚛️ Develop applications using React
+- 🔌 Build REST APIs with Node.js / Express / PHP
+- 🗄️ Integrate MongoDB and MySQL databases
+- 🔐 Implement authentication and authorization
+- 📊 Create admin dashboards and management systems
+- 📱 Build responsive applications for mobile and desktop
+- 🚀 Deploy applications using Vercel / Netlify
+- 🐛 Debug, optimize, and maintain existing applications
+- 🎨 Convert Figma / Canva designs into production-ready interfaces
+- 📚 Write documentation and setup guides
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
+- 🌐 Portfolio: https://your-portfolio.com
+- 🐙 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to ⭐ my repositories.
+
+---
+
+<div align="center">
+
+**💻 Code • 🚀 Build • 🎨 Design • 🔥 Learn**
+
+</div>
