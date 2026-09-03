@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/icons/wave.gif" width="30px" alt="wave" />, I'm Savan Zalavad
+  Hi <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/icons/wave.gif" width="30px" alt="wave" />, I'm Savan Zalavadiya
 </h1>
 <h3 align="center">Student | Aspiring Software Developer</h3>
 
