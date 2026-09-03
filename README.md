@@ -6,7 +6,7 @@
 - 🌱 I'm learning: **Advanced React, scalable architectures, and production best practices**
 - 💼 I work with: **React, Node.js, PHP, MongoDB, MySQL**
 - ❓ Ask me about: **React, JavaScript (ES6+), Node.js, PHP, MongoDB, MySQL, Tailwind CSS**
-- 📫 Reach me: **your.email@gmail.com**
+- 📫 Reach me: **savanzalavadiya007@gmail.com**
 - ⚡ Fun fact: **I enjoy polishing UI details and fixing the bugs that hide in the margins!**
 
 ---
@@ -106,9 +106,9 @@ and maintainable web solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=savanzalavadiya07&show_icons=true&theme=default&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanzalavadiya07&layout=compact&hide_border=true" />
 
 </div>
 
@@ -118,7 +118,7 @@ and maintainable web solutions.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=savanzalavadiya07&theme=default&hide_border=true" />
 
 </div>
 
@@ -128,7 +128,7 @@ and maintainable web solutions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/savanzalavadiya07/savanzalavadiya07/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -136,10 +136,8 @@ and maintainable web solutions.
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://your-portfolio.com
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email:savanzalavadiya007@gmail.com
+- 🐙 GitHub: https://github.com/savanzalavadiya07
 
 ---
 
