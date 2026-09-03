@@ -106,13 +106,11 @@ and maintainable web solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=savanzalavadiya07&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="./profile/stats.svg" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanzalavadiya07&layout=compact&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
